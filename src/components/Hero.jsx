@@ -20,7 +20,7 @@ const Hero = () => {
             As a React developer, I specialize in creating highly dynamic and
             responsive user
             <br className='sm:block hidden' /> interfaces using the React
-            {/* JavaScript library. With expertise in JavaScript, HTML, and CSS. */}
+            JavaScript library. With expertise in JavaScript, HTML, and CSS.
           </p>
         </div>
       </div>
